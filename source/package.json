@@ -1,0 +1,21 @@
+{
+  "name": "shufflebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "countdown": "^2.6.0",
+    "google-translate-api": "^2.3.0",
+    "moment": "^2.22.2",
+    "moment-countdown": "0.0.3",
+    "node-fetch": "^2.2.0",
+    "puppeteer": "^1.6.1",
+    "yql": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
